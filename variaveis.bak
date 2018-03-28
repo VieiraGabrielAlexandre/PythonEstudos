@@ -1,4 +1,15 @@
-nome = "Gabriel"
-peso = 100.0
-idade = 22
-print ("Nome: {} \nPeso:{} \nIdade: {}".format(nome,peso,idade))
+x = 20
+y = 4.0
+soma = x + y
+print (x)
+print (y)
+print (x + y)
+print ("(Usando o .format) Soma = {}".format(soma))
+subtracao = x - y
+print ("Subtracao = {}".format(subtracao))
+multiplicao = x * y
+print ("Multiplicacao = {}".format(multiplicao))
+divisao = x / y
+print ("Divisao = {}".format(divisao))
+potencia = x**
+print ("Potencia = {}".format(potencia))
