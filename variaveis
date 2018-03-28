@@ -1,0 +1,4 @@
+nome = "Gabriel"
+peso = 100.0
+idade = 22
+print ("Nome: {} \nPeso:{} \nIdade: {}".format(nome,peso,idade))
